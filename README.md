@@ -25,7 +25,8 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aleanse/aleanse/output/github-contribution-grid-snake-dark.svg">
 </picture>
 <!-- GithubStats -->
-![aleanse GitHub stats](https://github-readme-stats.vercel.app/api?username=aleanse&show_icons=true&theme=gotham)
+
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=aleanse&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
