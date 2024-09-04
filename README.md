@@ -1,5 +1,4 @@
 
-
 <!-- Presentation -->
 <p>
   Olá, me chamo aleanse dos santos lima rego,um estudante dedicado e  apaixonado por tecnologia.
@@ -26,7 +25,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aleanse/aleanse/output/github-contribution-grid-snake-dark.svg">
 </picture>
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=aleanse&show_icons=true&theme=gotham)
+![aleanse GitHub stats](https://github-readme-stats.vercel.app/api?username=aleanse&show_icons=true&theme=gotham)
 
 <!-- Portfolio -->
 ## Portfolio:
