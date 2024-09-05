@@ -4,8 +4,10 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=aleanse&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Aleanse github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleanse&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleanse&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117&layout=compact&hide_border=true" />
 </div>
+
+
 
 [![aleanse github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleanse&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/aleanse/github-readme-activity-graph)
 
@@ -49,7 +51,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{aleanse}/count.svg" /></p> 
 <br></div>
 
 
