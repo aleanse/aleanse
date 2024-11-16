@@ -20,6 +20,8 @@
 <a  href="https://www.linkedin.com/in/aleanse/" target="_blank" > <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>  
 </div> 
 
+[![aleanse github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aleanse&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/aleanse/github-readme-activity-graph)
+
  
 ### Principais habilidades:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
